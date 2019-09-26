@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Chess Clock</string>
+    <string name="d_title">Set time</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_set_time">SET</string>
+    <string name="save">SAVE</string>
+    <string name="btn_set_dialog">Set</string>
+    <string name="add_timer_title">Add new</string>
+    <string name="add_stage">Add Stage</string>
+    <string name="settings_label">Settings</string>
+    <string name="edit_time_label">Edit Time</string>
+    <string name="add_new_time_label">Add New</string>
+    <string name="stage_I" translatable="false">I</string>
+    <string name="stage_II" translatable="false">II</string>
+    <string name="stage_III" translatable="false">III</string>
+    <string name="stage_text_I">Stage I</string>
+    <string name="stage_text_II">Stage II</string>
+    <string name="stage_text_III">Stage III</string>
+    <string name="moves_increment">moves</string>
+    <string name="moves_dumb" translatable="false">1</string>
+    <string name="delete">Delete</string>
+    <string name="timer">Clock</string>
+    <string name="okBtn" translatable="false">Yes</string>
+    <string name="noBtn">No</string>
+    <string name="cancelBtn">Cancel</string>
+    <string name="nullNullFive" translatable="false">0:05</string>
+    <string name="fiveNullNull" translatable="false">5:00</string>
+    <string name="deleteTimers">Delete selected clocks?</string>
+    <string name="deleteStage">Delete stage?</string>
+    <string name="resetTimer">Reset the clock?</string>
+    <string name="hours">hours</string>
+    <string name="mins">mins</string>
+    <string name="secs">secs</string>
+    <string name="divider" translatable="false">|</string>
+    <string name="increment">Increment</string>
+    <string name="delay">Delay</string>
+    <string name="bronstein">Bronstein</string>
+    <string name="fisher">Fisher</string>
+    <string name="compensation">Compensation</string>
+
+
+</resources>
